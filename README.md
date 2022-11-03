@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SebastianMaier03.
+- 👋 Hi, I’m @Sebastian Maier.
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently studying computer science in media.
 
