@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sebastian Maier.
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently studying computer science in media.
+-   I’m @Sebastian Maier.
+-   I’m interested in Software Development.
+-   I’m currently studying computer science in media at hdm in Stuttgart.
 
 <!---
 SebastianMaier03/SebastianMaier03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
